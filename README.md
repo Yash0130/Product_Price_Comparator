@@ -16,6 +16,7 @@ Tkinter (For making GUI)
 
 # Future Features
 If you want to work on future features of this software then consider implementing the following features:
+
 Show No Product Found when there is no product related to user searched keyword.
 Users can see more than one product by clicking next and going back to the previous product.
 The software becomes unresponsive when you search for the product. Improve this by using a multithreading module for running the main function in a separate process.
